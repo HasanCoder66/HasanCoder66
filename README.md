@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Branding Hopes](https://brandinghopes.com)
-- 
+ 
 - 🔭 I’m currently working on [Hiring Mine](https://hiringmine.com)
 
 - 🌱 I’m currently learning **Next.js and Typescript**
@@ -16,8 +16,8 @@
 - 💬 Ask me about **React and Javascript**
 
 - 📫 How to reach me **codermhasan@gmail.com**
-- 
-- - 📫 How to reach me **+92 317 0243866**
+ 
+- 📫 How to reach me **+92 317 0243866**
 
 - ⚡ Fun fact **I think i become a philosopher**
 
