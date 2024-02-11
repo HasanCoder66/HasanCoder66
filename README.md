@@ -5,17 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Youtube](https://github.com/HasanCoder66/Vedio_Sharing_App)
+- 🔭 I’m currently working on [Branding Hopes](https://brandinghopes.com)
+- 
+- 🔭 I’m currently working on [Hiring Mine](https://hiringmine.com)
 
 - 🌱 I’m currently learning **Next.js and Typescript**
-
-- 👯 I’m looking to collaborate on [Branding Hopes](https://github.com/HasanCoder66/BRANDING-HOPES-OFFICIAL-WEB)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HasanCoder66/](https://github.com/HasanCoder66/)
 
 - 💬 Ask me about **React and Javascript**
 
 - 📫 How to reach me **codermhasan@gmail.com**
+- 
+- - 📫 How to reach me **+92 317 0243866**
 
 - ⚡ Fun fact **I think i become a philosopher**
 
