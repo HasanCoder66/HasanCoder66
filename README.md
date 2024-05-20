@@ -41,9 +41,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasancoder66&show_icons=true&locale=en" alt="hasancoder66" /></p>
 
-<div align="center">
-  <h2> 🏆 My Github Stats </h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=HasanCoder66&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=HasanCoder66&theme=radical&bg_color=00000000" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanCoder66&theme=radical&show_icons=true&count_private=true&bg_color=00000000&hide_border=true" width="49%" alt="stats graph" />
 </div> <br>
