@@ -42,5 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasancoder66&show_icons=true&locale=en" alt="hasancoder66" /></p>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=HasanCoder66&theme=radical&bg_color=00000000" width="49%" alt="streaks graph" />
+  <img src="https://streak-stats.demolab.com?user=HasanCoder66" width="49%" alt="streaks graph" />
 </div> <br>
