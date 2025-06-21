@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Techicoders](https://techicoders.com/)
-
-- 🌱 I’m currently learning **Next.js and Typescript from Governor Sindh Initiative**
-
-- 👯 I’m looking to collaborate on [Upwork](https://upwork.com/)
+- 🔭 I’m currently working on [HiringMine](https://www.hiringmine.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HasanCoder66/](https://github.com/HasanCoder66/)
 
-- 📝 I regularly Making Video on Youtube [https://www.youtube.com/@Hasanscode](https://www.youtube.com/@Hasanscode)
+- 📝 In My Free Time, I'm Making Videos on Youtube [https://www.youtube.com/@Hasanscode](https://www.youtube.com/@muhammadhasandev)
 
 - 💬 Ask me about **React and Javascript**
 
