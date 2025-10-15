@@ -3,10 +3,6 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Muhammad Hasan</span></h1>
 <h3 align="center">🚀 Passionate MERN Stack Developer | Building Web Experiences that Matter</h3>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/140997677?v=4" alt="Muhammad Hasan" width="150" style="border-radius:50%; border:3px solid #58a6ff;"/>
-</div>
-
 ---
 
 ### 💫 About Me
