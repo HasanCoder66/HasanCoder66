@@ -49,7 +49,7 @@
   <img src="https://streak-stats.demolab.com?user=HasanCoder66&theme=tokyonight" height="180" />
 </p>
 
----
+------
 
 ### 🧠 Current Focus
 > “Leveling up my skills in **Next.js, TypeScript, and Cloud Deployments** while creating useful projects.”
@@ -59,7 +59,7 @@
 ### 💼 Resume
 📄 [View My Resume](https://drive.google.com/file/d/1KrllxxgMv-FzwpfggjAgUoTBc0hRxnG8/view?usp=sharing)
 
----
+------
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasancoder66&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views"/>
