@@ -1,684 +1,153 @@
-<!-- ========================================= -->
-<!--              HASAN X | HERO               -->
-<!-- ========================================= -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Muhammad%20Hasan&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Technical%20Trainer%20%7C%20Content%20Creator&descAlignY=60&animation=fadeIn"/>
-</p>
-
-<h1 align="center">
-Hi 👋, I'm Muhammad Hasan
-</h1>
-
-<h3 align="center">
-🚀 Full Stack MERN Developer • Technical Trainer • JavaScript Enthusiast
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Teaching+Programming+Through+YouTube;Always+Learning+Something+New;Open+Source+Enthusiast" />
-</p>
-
-<p align="center">
-
-<a href="mailto:codermhasan@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/HasanCoder66">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hasancoder66/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.youtube.com/@muhammadhasandev">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
-
-<a href="https://hasancoder66.github.io/Professional-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 👨‍💻 About Me
-
-```diff
-+ 🚀 Passionate Full Stack MERN Developer
-+ 💼 Building scalable web applications
-+ 🎓 Technical Trainer & Programming Mentor
-+ 🎥 Coding Content Creator on YouTube
-+ 🌱 Currently mastering Next.js, TypeScript & Cloud
-+ 💡 Love solving real-world problems through code
-```
-
-<table>
-<tr>
-<td>
-
-### 🚀 Current Focus
-
-- ⚛️ Advanced React
-- ▲ Next.js
-- 📘 TypeScript
-- ☁️ Cloud Deployment
-- 🧠 System Design
-- 🏗️ Backend Architecture
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=HasanCoder66&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
-<!-- ======================================================= -->
-<!--                     TECH STACK                           -->
-<!-- ======================================================= -->
-
-# 💻 Tech Stack
-
 <div align="center">
 
-## 🎨 Frontend Development
+# 👋 Hi, I'm Muhammad Hasan
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,vite" />
+### Full Stack Developer | MERN Stack Developer
 
----
+<p>
+  <a href="https://hasancoder66.github.io/Professional-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/HasanCoder66">
+    <img src="https://img.shields.io/badge/GitHub-HasanCoder66-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hasancoder66/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hasan-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-## ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,npm" />
-
----
-
-## 🛠 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts" />
-
----
-
-## ☁️ Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,illustrator" />
-
----
-
-## 🚀 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,docker,aws" />
+<p>
+  Building responsive, scalable, and production-oriented web applications with modern JavaScript technologies.
+</p>
 
 </div>
 
 ---
 
-# 🚀 What I Love Building
+## 🚀 About Me
 
-<table>
+I'm a **Full Stack Developer with 2+ years of hands-on experience** building modern web applications with the **MERN stack** and related technologies.
 
-<tr>
-
-<td width="50%">
-
-### 🌐 Frontend
-
-- Responsive Websites
-- Modern UI/UX
-- React Applications
-- Admin Dashboards
-- Portfolio Websites
-- Landing Pages
-- API Integration
-- Redux Toolkit
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Backend
-
-- REST APIs
-- Authentication
-- JWT
-- OTP Verification
-- MongoDB
-- Express.js
-- CRUD Operations
-- MVC Architecture
-
-</td>
-
-</tr>
-
-</table>
+- 💻 Building scalable frontend and full-stack applications
+- ⚛️ Working with **React.js, Next.js, TypeScript, Node.js, and Express.js**
+- 🗄️ Using **MongoDB, Redis, Firebase, and REST APIs**
+- 🔐 Experienced with **Authentication, Authorization, and Payment Integration**
+- ☁️ Deploying applications with **Docker, AWS, and CI/CD**
+- 🧑‍🏫 Working as a **Web Development Trainer at Saylani Mass IT Training (SMIT)**
 
 ---
 
-# 📚 Libraries & Frameworks
+## 🛠️ Tech Stack
 
-| Category | Technologies |
-|-----------|-------------|
-| UI Libraries | Material UI, Bootstrap, Tailwind CSS |
-| State Management | Redux Toolkit |
-| Routing | React Router DOM |
-| Database | MongoDB |
-| Backend | Express.js |
-| Runtime | Node.js |
-| Authentication | JWT, Firebase |
-| API | Axios, Fetch |
-| Version Control | Git & GitHub |
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" alt="Frontend Skills" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase" alt="Backend and Database Skills" />
+</p>
+
+### Cloud, DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode" alt="Cloud DevOps and Tools" />
+</p>
+
+**Also working with:** Redux • Material UI • Cloudinary • REST API Integration • Authentication • Authorization • Payment Integration • GitHub Actions • CI/CD
 
 ---
 
-# 🎯 2026 Goals
+## 💼 Experience
+
+### Frontend Developer — HiringMine
+**Sep 2025 - Present | Karachi, Pakistan**
+
+Building and maintaining React.js-based job portal features with reusable components, responsive interfaces, Redux, REST API integrations, Tailwind CSS, and Material UI.
+
+### Web Development Trainer — SMIT
+**Jun 2025 - Present | Karachi, Pakistan**
+
+Teaching beginner-to-advanced web development through hands-on coding, real-world projects, debugging, code reviews, and technical mentorship.
+
+### Previous Experience
+
+- **Full Stack Developer** — AI-Recruiter Feature
+- **Frontend Developer** — Techicoders
+- **Freelance Frontend Developer** — Branding Hopes, Webdezeen, Delta Management
+
+---
+
+## 🔥 Featured Work
+
+### 💼 HiringMine Job Portal
+**React.js • Redux • REST APIs • Tailwind CSS • Material UI**
+
+Contributing to responsive job-portal interfaces, API-driven workflows, dynamic application states, and reusable frontend architecture.
+
+### 📄 Resume Creator
+**React.js • REST APIs**
+
+Built responsive resume-creator interfaces with reusable components and API-integrated functionality.
+
+### 🌐 Client & Freelance Projects
+Worked on responsive, client-facing web applications using **React.js, Tailwind CSS, modern CSS, and component-based development practices**.
+
+> 🔗 Explore more projects and live work on my **Portfolio** and **GitHub repositories**.
+
+---
+
+## ⚙️ What I Work With
 
 ```text
-✅ Master React
+Frontend
+React.js • Next.js • TypeScript • Redux
+Tailwind CSS • Bootstrap • Material UI
 
-✅ Master Node.js
+Backend
+Node.js • Express.js • REST APIs
+Authentication • Authorization • Payment Integration
 
-✅ Master MongoDB
-
-🟨 Become Expert in Next.js
-
-🟨 Master TypeScript
-
-⬜ Learn Docker
-
-⬜ Learn AWS
-
-⬜ Learn Kubernetes
-
-⬜ Open Source Contributions
-
-⬜ Crack Product Based Company
-
-⬜ Build SaaS Products
+Data & Infrastructure
+MongoDB • Redis • Firebase • Cloudinary
+Docker • AWS • CI/CD • GitHub Actions
 ```
 
 ---
 
-# 🌱 Currently Exploring
+## 📊 GitHub Activity
 
-```javascript
-const hasan = {
-    learning: [
-        "Next.js",
-        "TypeScript",
-        "System Design",
-        "Docker",
-        "Cloud Deployment",
-        "Performance Optimization"
-    ],
+<div align="center">
 
-    interests: [
-        "Web Development",
-        "Open Source",
-        "Teaching",
-        "Content Creation"
-    ],
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HasanCoder66&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Muhammad Hasan's GitHub Stats" />
 
-    lifeGoal: "Become a World-Class Software Engineer 🚀"
-}
-```
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanCoder66&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+
+</div>
 
 ---
 
-# 🏆 GitHub Achievements
+## 📈 Current Focus
+
+Currently focused on improving my skills in:
+
+**Full Stack Development • Scalable Backend Systems • Redis • Docker • AWS • CI/CD • AI-Powered Applications**
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HasanCoder66&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
+  <a href="https://www.linkedin.com/in/hasancoder66/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://hasancoder66.github.io/Professional-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
----
+<div align="center">
 
-# ⚡ Fun Facts
+### 💡 Build. Learn. Deploy. Repeat.
 
-- ☕ Coffee makes debugging easier.
-- 🎧 Music + Coding = Productivity.
-- 💡 I enjoy teaching programming.
-- 🚀 I believe consistency beats motivation.
-- 🌙 Night coding is my favorite.
-
----
-
-# 💬 Favorite Quote
-
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
-
-
-<!-- ======================================================= -->
-<!--                  FEATURED PROJECTS                      -->
-<!-- ======================================================= -->
-
-# 🚀 Featured Projects
-
-<p align="center">
-Here are some of my favorite projects that showcase my skills in Full Stack Web Development.
-</p>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 💼 HiringMine Clone
-
-A modern job portal built using the MERN Stack where users can browse jobs, authenticate, and manage their profiles.
-
-### 🚀 Features
-
-- JWT Authentication
-- Protected Routes
-- Redux Toolkit
-- Job Dashboard
-- Search & Filter
-- Responsive UI
-- REST APIs
-- MongoDB Database
-
-### 🛠 Tech Stack
-
-React • Redux • Node • Express • MongoDB • Tailwind
-
-<br>
-
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/🌐 Live Demo-1F6FEB?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td>
-
-<img src="assets/hiringmine.png" width="100%">
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td>
-
-<img src="assets/authentication.png" width="100%">
-
-</td>
-
-<td width="50%">
-
-# 🔐 Authentication System
-
-Complete Authentication System using Node.js & Express.
-
-### Features
-
-- Signup
-- Login
-- Logout
-- JWT
-- Refresh Token
-- OTP Verification
-- Nodemailer
-- Password Encryption
-- Authorization
-- Protected APIs
-
-### Stack
-
-Node.js
-
-Express.js
-
-MongoDB
-
-JWT
-
-Bcrypt
-
-Nodemailer
-
-<br>
-
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-# 🌐 Portfolio Website
-
-A modern personal portfolio to showcase projects, skills, and experience.
-
-### Features
-
-- Responsive
-- Dark Mode
-- Smooth Animation
-- Contact Form
-- Project Gallery
-- Resume Download
-
-### Stack
-
-React
-
-Tailwind
-
-Framer Motion
-
-</td>
-
-<td>
-
-<img src="assets/portfolio.png" width="100%">
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td>
-
-<img src="assets/scratch.png" width="100%">
-
-</td>
-
-<td width="50%">
-
-# 🎮 Scratch Games
-
-Educational games developed for beginner students to learn programming concepts in a fun way.
-
-### Includes
-
-- Maze Game
-- Catch Game
-- Quiz Game
-- Racing Game
-- Animation Projects
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📦 More Projects
-
-| Project | Tech |
-|----------|------|
-| 🍔 Restaurant Website | HTML CSS JS |
-| 🧮 Calculator | JavaScript |
-| 📝 Todo App | React |
-| 🛒 Ecommerce UI | React |
-| 🎬 Movie App | React API |
-| 🌤 Weather App | JavaScript API |
-| 📖 Notes App | MERN |
-| 💬 Chat UI | React |
-| 👨‍💻 Admin Dashboard | React + Redux |
-| 📊 CRUD System | MERN |
-
----
-
-# 🌟 Open Source
-
-I enjoy learning from the open-source community and continuously improving my projects through best practices and clean architecture.
-
-Future Goals:
-
-- Open Source Contributions
-- Build NPM Packages
-- Create React Libraries
-- Build SaaS Products
-- Mentor Developers
-
----
-
-# 📈 Development Journey
-
-```text
-2022 ▓▓░░░░░░░░ HTML CSS
-
-2023 ▓▓▓▓▓░░░░ JavaScript
-
-2024 ▓▓▓▓▓▓▓░ React
-
-2025 ▓▓▓▓▓▓▓▓ MERN Stack
-
-2026 ▓▓▓▓▓▓▓▓ Next.js + TypeScript
-```
-
----
-
-# 💻 Current Workspace
-
-```yaml
-OS: Windows 11
-
-Editor: VS Code
-
-Browser: Chrome
-
-Terminal: Git Bash
-
-Version Control: Git
-
-Database: MongoDB
-
-API Testing: Postman
-
-Design: Figma
-```
-
-<!-- ======================================================= -->
-<!--                GITHUB ANALYTICS                         -->
-<!-- ======================================================= -->
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<i>Consistency is better than perfection.</i>
-</p>
-
----
-
-## ⚡ GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HasanCoder66&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HasanCoder66&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanCoder66&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanCoder66&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 📅 GitHub Summary Cards
-
-<p align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanCoder66&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanCoder66&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasanCoder66&theme=github_dark"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasanCoder66&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasanCoder66&theme=github_dark&utcOffset=5"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanCoder66&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Weekly Development Breakdown
-
-```text
-JavaScript      ████████████████████ 80%
-
-React           ███████████████      65%
-
-Node.js         ███████████          50%
-
-MongoDB         █████████            45%
-
-TypeScript      █████                25%
-
-Next.js         ████                 20%
-```
-
----
-
-# 🔥 Coding Activity
-
-```text
-🌞 Morning      ███░░░░░░░░░░░░
-
-🌇 Afternoon    ███████░░░░░░░░
-
-🌙 Evening      ███████████░░░░
-
-🌃 Night        ███████████████
-```
-
----
-
-# 🏅 Milestones
-
-✔ MERN Stack
-
-✔ React Ecosystem
-
-✔ REST APIs
-
-✔ Authentication Systems
-
-✔ Responsive UI Development
-
-✔ Redux Toolkit
-
-✔ Technical Training
-
-⬜ Docker
-
-⬜ AWS
-
-⬜ Kubernetes
-
-⬜ Microservices
-
----
-
-# 📌 Current Status
-
-```javascript
-const currentStatus = {
-    role: "Full Stack MERN Developer",
-
-    location: "Pakistan",
-
-    learning: [
-        "Next.js",
-        "TypeScript",
-        "Cloud Deployment",
-        "Docker"
-    ],
-
-    workingOn: [
-        "HiringMine",
-        "Open Source",
-        "Teaching",
-        "Portfolio Improvements"
-    ],
-
-    availableFor: [
-        "Frontend",
-        "Backend",
-        "Freelance",
-        "Collaboration"
-    ]
-}
-```
+</div>
