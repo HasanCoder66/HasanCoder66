@@ -80,15 +80,6 @@ Teaching beginner-to-advanced web development through hands-on coding, real-worl
 
 ## 🔥 Featured Work
 
-### 💼 HiringMine Job Portal
-**React.js • Redux • REST APIs • Tailwind CSS • Material UI**
-
-Contributing to responsive job-portal interfaces, API-driven workflows, dynamic application states, and reusable frontend architecture.
-
-### 📄 Resume Creator
-**React.js • REST APIs**
-
-Built responsive resume-creator interfaces with reusable components and API-integrated functionality.
 
 ### 🌐 Client & Freelance Projects
 Worked on responsive, client-facing web applications using **React.js, Tailwind CSS, modern CSS, and component-based development practices**.
