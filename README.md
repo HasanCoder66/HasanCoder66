@@ -78,8 +78,6 @@ Teaching beginner-to-advanced web development through hands-on coding, real-worl
 
 ---
 
-## 🔥 Featured Work
-
 
 ### 🌐 Client & Freelance Projects
 Worked on responsive, client-facing web applications using **React.js, Tailwind CSS, modern CSS, and component-based development practices**.
