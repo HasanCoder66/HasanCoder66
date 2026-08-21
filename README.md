@@ -61,7 +61,7 @@ I'm a **Full Stack Developer with 2+ years of hands-on experience** building mod
 ## 💼 Experience
 
 ### Frontend Developer — HiringMine
-**Sep 2025 - Present | Karachi, Pakistan**
+**Jan 2025 - Present | Karachi, Pakistan**
 
 Building and maintaining React.js-based job portal features with reusable components, responsive interfaces, Redux, REST API integrations, Tailwind CSS, and Material UI.
 
